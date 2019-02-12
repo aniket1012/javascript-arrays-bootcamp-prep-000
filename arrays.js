@@ -19,3 +19,4 @@ function destructivelyAddElementToEndOfArray(chocolateBars,Cadburry) {
   return chocolateBars;
 }
 
+function accessElementInArray(chocolateBars, index)
