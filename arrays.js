@@ -20,5 +20,5 @@ function destructivelyAddElementToEndOfArray(chocolateBars,Cadburry) {
 }
 
 function accessElementInArray(chocolateBars, index) {
-  return 
+  return chocolateBars[3]
 }
