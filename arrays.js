@@ -13,3 +13,5 @@ function  destructivelyAddElementToBeginningOfArray(chocolateBars, Cadburry) {
 function addElementToEndOfArray(chocolateBars, Cadburry) {
   return [...chocolateBars,Cadburry];
 }
+
+function destructivelyAddElementToEndOfArray
