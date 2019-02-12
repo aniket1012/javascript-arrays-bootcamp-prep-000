@@ -28,3 +28,4 @@ function destructivelyRemoveElementFromBeginningOfArray(chocolateBars,Cadburry) 
   return chocolateBars;
 }
 
+function removeElementFromBeginningOfArray(chocolateBars) 
