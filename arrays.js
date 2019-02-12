@@ -39,5 +39,6 @@ function destructivelyRemoveElementFromEndOfArray(chocolateBars) {
 }
 
 function removeElementFromEndOfArray(chocolateBars) {
-  
+  chocolateBars.push();
+  return chocolateBars
 }
