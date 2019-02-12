@@ -23,4 +23,6 @@ function accessElementInArray(chocolateBars, index) {
   return chocolateBars[2];
 }
 
-function 
+function destructivelyRemoveElementFromBeginningOfArray(chocolateBars,Cadburry) {
+  return chocolateBars.shift(Cadburry);
+}
